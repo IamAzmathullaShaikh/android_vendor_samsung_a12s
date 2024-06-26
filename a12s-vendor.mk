@@ -928,7 +928,6 @@ PRODUCT_PACKAGES += \
     ImsSettings \
     ImsSettings.apk \
     org.carconnectivity.android.digitalkey.timesync \
-    android.hardware.sensors@2.0-multihal \
     android.hardware.wifi.hostapd \
     android.hardware.wifi.supplicant \
     android.hardware.wifi@1.0-service \
