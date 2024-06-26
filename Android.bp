@@ -33,24 +33,6 @@ dex_import {
 }
 
 prebuilt_etc_xml {
-	name: "android.hardware.wifi.supplicant",
-	owner: "samsung",
-	src: "proprietary/vendor/etc/vintf/manifest/android.hardware.wifi.supplicant.xml",
-	filename_from_src: true,
-	sub_dir: "vintf/manifest",
-	soc_specific: true,
-}
-
-prebuilt_etc_xml {
-	name: "android.hardware.wifi@1.0-service",
-	owner: "samsung",
-	src: "proprietary/vendor/etc/vintf/manifest/android.hardware.wifi@1.0-service.xml",
-	filename_from_src: true,
-	sub_dir: "vintf/manifest",
-	soc_specific: true,
-}
-
-prebuilt_etc_xml {
 	name: "manifest_android.hardware.drm@1.4-service.clearkey",
 	owner: "samsung",
 	src: "proprietary/vendor/etc/vintf/manifest/manifest_android.hardware.drm@1.4-service.clearkey.xml",
