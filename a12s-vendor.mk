@@ -25,7 +25,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a12s/proprietary/vendor/bin/abox_log:$(TARGET_COPY_OUT_VENDOR)/bin/abox_log \
     vendor/samsung/a12s/proprietary/vendor/bin/add.pb:$(TARGET_COPY_OUT_VENDOR)/bin/add.pb \
     vendor/samsung/a12s/proprietary/vendor/bin/argosd:$(TARGET_COPY_OUT_VENDOR)/bin/argosd \
-    vendor/samsung/a12s/proprietary/vendor/bin/boringssl_self_test64:$(TARGET_COPY_OUT_VENDOR)/bin/boringssl_self_test64 \
     vendor/samsung/a12s/proprietary/vendor/bin/cass:$(TARGET_COPY_OUT_VENDOR)/bin/cass \
     vendor/samsung/a12s/proprietary/vendor/bin/cbd:$(TARGET_COPY_OUT_VENDOR)/bin/cbd \
     vendor/samsung/a12s/proprietary/vendor/bin/cld:$(TARGET_COPY_OUT_VENDOR)/bin/cld \
