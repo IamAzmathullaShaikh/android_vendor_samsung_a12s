@@ -14,7 +14,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a12s/proprietary/bin/lpm:$(TARGET_COPY_OUT_SYSTEM)/bin/lpm 	\
     vendor/samsung/a12s/proprietary/etc/init/init.sec-charger.rc:$(TARGET_COPY_OUT_SYSTEM)/etc/init/init.sec-charger.rc	\
     vendor/samsung/a12s/proprietary/system_ext/etc/build.prop:$(TARGET_COPY_OUT_SYSTEM_EXT)/etc/build.prop \
-    vendor/samsung/a12s/proprietary/system_ext/etc/permissions/com.android.systemui.xml:$(TARGET_COPY_OUT_SYSTEM_EXT)/etc/permissions/com.android.systemui.xml \
     vendor/samsung/a12s/proprietary/system_ext/lib/vendor.samsung.hardware.miscpower@2.0.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib/vendor.samsung.hardware.miscpower@2.0.so \
     vendor/samsung/a12s/proprietary/system_ext/lib64/vendor.samsung.hardware.miscpower@2.0.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib64/vendor.samsung.hardware.miscpower@2.0.so \
     vendor/samsung/a12s/proprietary/vendor/apex/com.samsung.android.biometrics.face.signed.apex:$(TARGET_COPY_OUT_VENDOR)/apex/com.samsung.android.biometrics.face.signed.apex \
