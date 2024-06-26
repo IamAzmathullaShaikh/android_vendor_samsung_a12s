@@ -928,7 +928,6 @@ PRODUCT_PACKAGES += \
     ImsSettings \
     ImsSettings.apk \
     org.carconnectivity.android.digitalkey.timesync \
-    android.hardware.wifi.hostapd \
     android.hardware.wifi.supplicant \
     android.hardware.wifi@1.0-service \
     manifest_android.hardware.drm@1.4-service.clearkey \
