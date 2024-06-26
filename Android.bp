@@ -33,15 +33,6 @@ dex_import {
 }
 
 prebuilt_etc_xml {
-	name: "android.hardware.sensors@2.0-multihal",
-	owner: "samsung",
-	src: "proprietary/vendor/etc/vintf/manifest/android.hardware.sensors@2.0-multihal.xml",
-	filename_from_src: true,
-	sub_dir: "vintf/manifest",
-	soc_specific: true,
-}
-
-prebuilt_etc_xml {
 	name: "android.hardware.wifi.hostapd",
 	owner: "samsung",
 	src: "proprietary/vendor/etc/vintf/manifest/android.hardware.wifi.hostapd.xml",
