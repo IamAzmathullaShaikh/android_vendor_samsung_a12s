@@ -202,7 +202,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a12s/proprietary/vendor/lib/hw/android.hardware.graphics.allocator@4.0-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/android.hardware.graphics.allocator@4.0-impl.so \
     vendor/samsung/a12s/proprietary/vendor/lib/hw/camera.exynos850.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/camera.exynos850.so \
     vendor/samsung/a12s/proprietary/vendor/lib/hw/gatekeeper.exynos850.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/gatekeeper.exynos850.so \
-    vendor/samsung/a12s/proprietary/vendor/lib/hw/gralloc.default.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/gralloc.default.so \
     vendor/samsung/a12s/proprietary/vendor/lib/hw/hwcomposer.exynos850.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/hwcomposer.exynos850.so \
     vendor/samsung/a12s/proprietary/vendor/lib/hw/memtrack.exynos850.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/memtrack.exynos850.so \
     vendor/samsung/a12s/proprietary/vendor/lib/hw/vulkan.mali.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/vulkan.mali.so \
