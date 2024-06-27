@@ -32,11 +32,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a12s/proprietary/vendor/bin/fsdbg_vendor:$(TARGET_COPY_OUT_VENDOR)/bin/fsdbg_vendor \
     vendor/samsung/a12s/proprietary/vendor/bin/hw/android.hardware.drm@1.4-service.clearkey:$(TARGET_COPY_OUT_VENDOR)/bin/hw/android.hardware.drm@1.4-service.clearkey \
     vendor/samsung/a12s/proprietary/vendor/bin/hw/android.hardware.drm@1.4-service.widevine:$(TARGET_COPY_OUT_VENDOR)/bin/hw/android.hardware.drm@1.4-service.widevine \
-    vendor/samsung/a12s/proprietary/vendor/bin/hw/android.hardware.dumpstate-service:$(TARGET_COPY_OUT_VENDOR)/bin/hw/android.hardware.dumpstate-service \
-    vendor/samsung/a12s/proprietary/vendor/bin/hw/android.hardware.memtrack@1.0-service:$(TARGET_COPY_OUT_VENDOR)/bin/hw/android.hardware.memtrack@1.0-service \
     vendor/samsung/a12s/proprietary/vendor/bin/hw/android.hardware.power.samsung-service:$(TARGET_COPY_OUT_VENDOR)/bin/hw/android.hardware.power.samsung-service \
-    vendor/samsung/a12s/proprietary/vendor/bin/hw/android.hardware.sensors@2.0-service.multihal:$(TARGET_COPY_OUT_VENDOR)/bin/hw/android.hardware.sensors@2.0-service.multihal \
-    vendor/samsung/a12s/proprietary/vendor/bin/hw/android.hardware.wifi@1.0-service:$(TARGET_COPY_OUT_VENDOR)/bin/hw/android.hardware.wifi@1.0-service \
     vendor/samsung/a12s/proprietary/vendor/bin/hw/gpsd:$(TARGET_COPY_OUT_VENDOR)/bin/hw/gpsd \
     vendor/samsung/a12s/proprietary/vendor/bin/hw/macloader:$(TARGET_COPY_OUT_VENDOR)/bin/hw/macloader \
     vendor/samsung/a12s/proprietary/vendor/bin/hw/mfgloader:$(TARGET_COPY_OUT_VENDOR)/bin/hw/mfgloader \
